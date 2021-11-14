@@ -1,17 +1,17 @@
 === WP Stickit ===
 Contributors: nazsabuz
-Tags: sticky, sidebar, widget, sticky sidebar, sticky widget, stickit, jqeury stickit, wp stickit
+Tags: sticky, sidebar, header, widget, sticky sidebar, sticky header, sticky widget, stickit, jqeury stickit, wp stickit
 Requires at least: 3.0
-Tested up to: 4.9.1
-Stable tag: 1.3.0
+Tested up to: 5.8.2
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WP Stickit make your sidebar sticky
+WP Stickit makes header, sidebar, or anything sticky.
 
 == Description ==
 
-WP Stickit make your sidebar sticky.
+WP Stickit makes header, sidebar, or anything sticky.
 
 
 == Installation ==
@@ -38,6 +38,9 @@ Please make sure that you have put the correct symbol for id(#) or class(.) befo
 
 
 == Changelog ==
+
+= 1.3.1 =
+* Updated compatibility.
 
 = 1.3.0 =
 * Updated to jQuery Stickit v0.2.14.
